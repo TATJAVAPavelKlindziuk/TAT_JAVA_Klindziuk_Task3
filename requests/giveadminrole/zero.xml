@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<adminservice>		
+	<command>giveadminrole</command>
+	<id>0</id>
+</adminservice>     

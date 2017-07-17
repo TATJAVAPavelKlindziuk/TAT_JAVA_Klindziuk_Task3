@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<adminservice>		
+	<command>addbook</command>
+	<name>TestBook</name>
+	<author>*^%$</author>
+	<year>121</year>
+</adminservice>     

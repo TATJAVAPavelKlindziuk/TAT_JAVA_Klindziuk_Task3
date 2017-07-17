@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<adminservice>		
+	<command>addbook</command>
+	<name>GoodBook</name>
+	<author></author>
+	<year>2003</year>
+</adminservice>     

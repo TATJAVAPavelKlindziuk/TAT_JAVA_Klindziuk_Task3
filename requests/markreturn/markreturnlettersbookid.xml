@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<adminservice>		
+	<command>markreturn</command>
+	<userId>2</userId>
+	<bookId>3ff</bookId>
+</adminservice>     
+    

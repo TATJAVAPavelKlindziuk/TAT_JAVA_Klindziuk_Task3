@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<adminservice>		
+	<command>setBookDeprecated</command>
+	<id>7</id>
+</adminservice>     

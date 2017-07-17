@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<adminservice>		
+	<command>updatebookdescription</command>
+	<id>2</id>
+	 <!--use login and password for provide name and author for book -->
+	<login>TEST NAME</login>
+	<password>TEST AUTHOR</password>
+</adminservice>     

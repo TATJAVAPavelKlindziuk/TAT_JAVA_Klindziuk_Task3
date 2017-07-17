@@ -1,0 +1,7 @@
+<adminservice>		
+	<command>updatebookdescription</command>
+	<id>1d2t</id>
+	 <!--use login and password for provide name and author for book -->
+	<login>112NAME</login>
+	<password>TEST AUTHOR</password>
+</adminservice>     

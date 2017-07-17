@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<adminservice>		
+	<command>deletebook</command>
+	<id>6</id>
+	<name>Atlas Shruggeled</name>
+	<author>Ann Reind</author>
+	<year>2007</year>
+	<available>true</available>
+	<deprecated>false</deprecated>
+	<time>2017-07-04 11:26:49.0657</time>
+</adminservice>     

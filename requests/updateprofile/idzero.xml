@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<libraryservice>		
+	<command>updateProfile</command>
+	<id>0</id>
+	<name>Name</name>
+</libraryservice>     

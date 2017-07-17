@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="task3tests" parallel="classes" thread-count="10">
+    <test name="xml-test" preserve-order="true" >
+       <classes>
+         <class name = "com.klindziuk.offlinelibrary.server.test.BanUserRequestTest"></class>
+         <class name = "com.klindziuk.offlinelibrary.server.test.UnbanUserRequestTest"></class>
+         <class name = "com.klindziuk.offlinelibrary.server.test.CommandRequestTest"></class>
+         <class name = "com.klindziuk.offlinelibrary.server.test.DeleteBookByIdRequestTest"></class>
+         <class name = "com.klindziuk.offlinelibrary.server.test.FindByRequestTest"></class>
+         <class name = "com.klindziuk.offlinelibrary.server.test.GetAllRequestTest"></class>
+         <class name = "com.klindziuk.offlinelibrary.server.test.GiveAdminRoleRequestTest"></class>
+         <class name = "com.klindziuk.offlinelibrary.server.test.MarkIssuanceRequestTest"></class>
+         <class name = "com.klindziuk.offlinelibrary.server.test.MarkReturnRequestTest"></class>
+         <class name = "com.klindziuk.offlinelibrary.server.test.RemoveAdminRoleRequestTest"></class>
+          </classes>
+    </test>
+</suite>

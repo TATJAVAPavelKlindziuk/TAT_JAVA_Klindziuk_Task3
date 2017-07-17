@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<clientservice>		
+      <command>signin</command>
+      <login>max</login>
+      <password>fire</password>
+</clientservice>     
+    

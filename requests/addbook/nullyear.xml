@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<adminservice>		
+	<command>addbook</command>
+	<name>TestBook</name>
+	<author>Josh Bloch</author>
+	<year>0</year>
+</adminservice>     
