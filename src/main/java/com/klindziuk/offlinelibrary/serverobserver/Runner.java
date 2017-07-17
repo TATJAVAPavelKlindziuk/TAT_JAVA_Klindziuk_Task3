@@ -2,6 +2,8 @@ package com.klindziuk.offlinelibrary.serverobserver;
 
 import org.apache.log4j.Logger;
 
+import com.klindziuk.offlinelibrary.serverobserver.file.XmlFileReader;
+
 public class Runner {
 	private static final Logger logger = Logger.getLogger(XmlFileReader.class);
 	private static final String XMLFILEPATH_GET = "requests/get";

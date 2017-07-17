@@ -1,7 +1,8 @@
 package com.klindziuk.offlinelibrary.server.test;
 
 import com.klindziuk.offlinelibrary.controller.util.RequestParser;
-import com.klindziuk.offlinelibrary.serverobserver.*;
+import com.klindziuk.offlinelibrary.serverobserver.client.Requester;
+import com.klindziuk.offlinelibrary.serverobserver.server.Server;
 import com.klindziuk.offlinelibrary.dao.util.DBconnector;
 import com.klindziuk.offlinelibrary.server.util.MultiServer;
 import com.klindziuk.offlinelibrary.server.util.SqlScriptRunner;

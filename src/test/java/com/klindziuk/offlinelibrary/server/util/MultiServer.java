@@ -1,6 +1,6 @@
 package com.klindziuk.offlinelibrary.server.util;
 
-import com.klindziuk.offlinelibrary.serverobserver.Server;
+import com.klindziuk.offlinelibrary.serverobserver.server.Server;
 
 /**
  * @author Pavel_Klindziuk
